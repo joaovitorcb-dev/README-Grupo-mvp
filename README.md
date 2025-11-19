@@ -7,25 +7,62 @@
 . João Pedro de Carvalho Dias - 6015617
 . João Vitor Araújo Cibrão - 6010097
 
+
+
 2-Nome da situação problema escolhido;
 . Circuito Terê Verde: Plataforma Digital para Consulta de Biodiversidade, Trilhas e Eventos nos Parques de Teresópolis.
 
+
+
 3-Descrição resumida das tecnologias utilizadas;
-. 
+. HTML – Utilizado para criar a estrutura e o conteúdo principal das páginas do site, organizando elementos como textos, botões, menus e seções.
+
+. CSS – Responsável pelo design e apresentação visual do site, controlando cores, fontes, espaçamento, layout e responsividade para diferentes telas.
+
+. JavaScript – Linguagem utilizada para adicionar funcionalidades interativas, como validação de formulários, navegação dinâmica e atualização de elementos na página.
+
+. GitHub – Plataforma utilizada como repositório central do projeto, permitindo controle de versão, armazenamento do código e colaboração no desenvolvimento.
+
+
 
 4-Instruções para excutar/abrir o MVP ;
-.
+. Para ter acesso ao site, o usuário deve abrir o link fornecido no repositório ou enviado junto ao projeto. Basta clicar no link e o navegador irá carregar a página automaticamente, sem necessidade de instalação ou configuração adicional.
+
+
 
 5-Informações adicionais que forem necessárias;
-.
+. O projeto visa facilitar o acesso a informações oficiais sobre áreas de preservação ambiental do município de Teresópolis, contribuindo para a educação ambiental, segurança dos visitantes e fortalecimento do turismo ecológico local.
 
-6-Informações de qual mvp definido
-.
+. A plataforma contribui diretamente para a comunidade ao fomentar o turismo sustentável, permitindo que visitantes explorem os parques de forma consciente, ao mesmo tempo em que fortalece a divulgação do patrimônio natural do município.
+
+. O sistema foi projetado para dois perfis principais:
+Visitantes, que buscam informações confiáveis e atualizadas sobre trilhas, biodiversidade e eventos.
+Administradores, responsáveis por publicar e atualizar os dados exibidos no site.
+
+6-Informações de qual mvp definido:
+O que o MVP entrega:
+.Página web com informações turísticas sobre parques, trilhas e biodiversidade.
+
+.Interface simples e clara para navegação do usuário.
+
+.Área administrativa para atualização de conteúdo.
+
+.Acesso online via link, sem necessidade de instalação.
+
+O que ele ainda não entrega (futuro):
+.Geolocalização em tempo real.
+
+.Integração com mapas dinâmicos.
+
+.Cadastro de visitantes.
+
+.Sistema completo de avaliação de trilhas.
+
+.Integração com APIs de clima.
 
 
 
 7-Informações de objetivos e benefícios do produto;
-
 Objetivo:
 . Centralizar informações ambientais e turísticas dos parques de Teresópolis, reunindo dados de trilhas, cachoeiras, pontos de interesse, biodiversidade e eventos em uma única plataforma acessível ao público.
 
